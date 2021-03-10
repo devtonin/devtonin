@@ -3,16 +3,13 @@
 <img align="right" width="29%" src="![image](https://user-images.githubusercontent.com/51514805/110643462-e315d800-8192-11eb-8a87-754a811f7998.png)
 https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" alt="code" />
 
-Hi there, I'm a **computer engineering** student and Web developer!
-
-
+Hello, i'm a *Computer Enginnering Student* and Node.js Developer :)
 
 [![Linkedin Badge]()
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 ### Activity:
 
-[![Top Langs]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiagamaralanuraghazra)](https://github.com/anuraghazra/github-readme-stats))
+[![Top Langs](https://github-readme-stats.vercel.app/apiagamaralanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Stacks:
 
