@@ -7,8 +7,7 @@ Hi there, I'm a **computer engineering** student and Web developer!
 
 
 
-[![Twitter Badge]() 
-[![Linkedin Badge]()
+[![Linkedin Badge](<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>)
 
 ### Activity:
 
