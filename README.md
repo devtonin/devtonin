@@ -1,14 +1,13 @@
 <h1>Antonio Amaral</h1>
 
-
 <img align="right" width="50%" src="https://media0.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" alt="code" />
 
-Hello, i'm a *Computer Enginnering Student* and nodejs enthusiastic, looking for a internship!
+Hello, i'm a *Computer Enginnering Student* and back-end developer, looking for a internship!
 Know me better below :)
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/agamaral)
 &nbsp;
-[![Devto](https://d2fltix0v2e0sb.cloudfront.net/dev-black.png) DEV Community](https://dev.to/agamaral)
+[![Devto](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/84_Dev_logo_logos-512.png) DEV Community](https://dev.to/agamaral)
 &nbsp;
 
 ### Activity:
