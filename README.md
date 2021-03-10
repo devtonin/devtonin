@@ -12,9 +12,9 @@ Know me better below :)
 &nbsp;
 ### Activity:
 
-[![My top langs :P](https://github-readme-stats.vercel.app/api/top-langs/?username=agamaral&layout=compact&theme=dark)](https://github.com/agamaral/github-readme-stats)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agamaral&layout=compact&theme=dark)](https://github.com/agamaral/github-readme-stats)
 
-### My Stacks:
+### My Stack:
 
 <p>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square"/>
