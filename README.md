@@ -5,7 +5,7 @@
 
 Hello, i'm a *Computer Enginnering Student* and Node.js Developer :)
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/agamaral)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Antonio Amaral](https://www.linkedin.com/in/agamaral)
 &nbsp;
 
 ### Activity:
