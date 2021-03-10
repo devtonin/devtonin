@@ -8,7 +8,7 @@ Know me better below :)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/agamaral)
 &nbsp;
 
-[![DEV Community](https://user-images.githubusercontent.com/51514805/110647982-19555680-8197-11eb-8c90-d8a5c88f0b90.png)](https://dev.to/agamaral)
+[![DEV Community](https://user-images.githubusercontent.com/51514805/110647982-19555680-8197-11eb-8c90-d8a5c88f0b90.png) DEV.to](https://dev.to/agamaral)
 &nbsp;
 ### Activity:
 
