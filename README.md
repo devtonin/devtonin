@@ -4,7 +4,7 @@
 
 Hello, i'm a *Computer Enginnering Student* and Node.js Developer :)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Basso-383836?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasrbasso/)](https://www.linkedin.com/in/lucasrbasso/)
+[![Linkedin Badge]()
 
 ### Activity:
 
