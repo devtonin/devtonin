@@ -5,7 +5,8 @@
 
 Hello, i'm a *Computer Enginnering Student* and Node.js Developer :)
 
-[![Linkedin Badge]()
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/agamaral)
+&nbsp;
 
 ### Activity:
 
