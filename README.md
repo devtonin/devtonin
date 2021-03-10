@@ -6,12 +6,14 @@
 Hello, i'm a *Computer Enginnering Student* and nodejs enthusiastic, looking for a internship!
 Know me better below :)
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Antonio Amaral](https://www.linkedin.com/in/agamaral)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/agamaral)
+&nbsp;
+[![Devto](https://d2fltix0v2e0sb.cloudfront.net/dev-black.png) DEV Community](https://dev.to/agamaral)
 &nbsp;
 
 ### Activity:
 
-[![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agamaral&layout=compact&theme=dark)](https://github.com/agamaral/github-readme-stats)
+[![My top langs :P](https://github-readme-stats.vercel.app/api/top-langs/?username=agamaral&layout=compact&theme=dark)](https://github.com/agamaral/github-readme-stats)
 
 ### My Stacks:
 
