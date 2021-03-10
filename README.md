@@ -7,8 +7,8 @@ Hi there, I'm a **computer engineering** student and Web developer!
 
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@lucasrbasso-383836?style=flat-square&labelColor=383836&logo=twitter&logoColor=white&link=https://twitter.com/lucasrbasso)](https://twitter.com/lucasrbasso) 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Basso-383836?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasrbasso/)](https://www.linkedin.com/in/agamaral/)
+[![Twitter Badge]() 
+[![Linkedin Badge]()
 
 ### Activity:
 
