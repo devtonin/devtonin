@@ -2,7 +2,7 @@
 
 <img align="right" width="50%" src="https://media0.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" alt="code" />
 
-Hello, i'm a *Computer Enginnering Student* and back-end developer, looking for a internship!
+Hello, i'm a *Computer Enginnering Student* and **back-end developer**, looking for a internship!
 Know me better below :)
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/agamaral)
