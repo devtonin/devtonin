@@ -1,7 +1,6 @@
 <h1>Antonio Amaral</h1>
 
-<img align="right" width="29%" src="![image](https://user-images.githubusercontent.com/51514805/110643462-e315d800-8192-11eb-8a87-754a811f7998.png)
-https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" alt="code" />
+<img align="right" width="29%" src="![image](https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif)" alt="code" />
 
 Hello, i'm a *Computer Enginnering Student* and Node.js Developer :)
 
