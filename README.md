@@ -9,7 +9,7 @@ Hello, i'm a *Computer Enginnering Student* and Node.js Developer :)
 
 ### Activity:
 
-[![Top Langs](https://github-readme-stats.vercel.app/apiagamaralanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![My Langs](https://github-readme-stats.vercel.app/apiagamaral&show_icons=true)
 
 ### My Stacks:
 
