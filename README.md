@@ -7,10 +7,9 @@ Know me better below :)
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/agamaral)
 &nbsp;
-[![DEV Community](iconfinder_84_Dev_logo_logos_4394314.png)](https://dev.to/agamaral)
-&nbsp;
 
-![DEV]![What is this](iconfinder_84_Dev_logo_logos_4394314.png)
+[![DEV Community](https://user-images.githubusercontent.com/51514805/110647982-19555680-8197-11eb-8c90-d8a5c88f0b90.png) DEV.to](https://dev.to/agamaral)
+&nbsp;
 ### Activity:
 
 [![My top langs :P](https://github-readme-stats.vercel.app/api/top-langs/?username=agamaral&layout=compact&theme=dark)](https://github.com/agamaral/github-readme-stats)
