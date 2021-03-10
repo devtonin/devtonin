@@ -1,10 +1,10 @@
 <h1>Antonio Amaral</h1>
 
-<img align="right" width="29%" src="![image](https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif)" alt="code" />
+<img align="right" width="29%" src="https://media3.giphy.com/media/KazYtoXQkYy6BlkOwG/source.gif" alt="code" />
 
 Hello, i'm a *Computer Enginnering Student* and Node.js Developer :)
 
-[![Linkedin Badge]()
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Basso-383836?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasrbasso/)](https://www.linkedin.com/in/lucasrbasso/)
 
 ### Activity:
 
