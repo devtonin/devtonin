@@ -7,7 +7,7 @@ Know me better below :)
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/agamaral)
 &nbsp;
-[![Devto](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/84_Dev_logo_logos-512.png) DEV Community](https://dev.to/agamaral)
+[![Devto](./iconfinder_84_Dev_logo_logos_4394314.png) DEV Community](https://dev.to/agamaral)
 &nbsp;
 
 ### Activity:
