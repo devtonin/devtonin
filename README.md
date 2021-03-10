@@ -10,7 +10,7 @@ Know me better below :)
 [![DEV Community](iconfinder_84_Dev_logo_logos_4394314.png)](https://dev.to/agamaral)
 &nbsp;
 
-![DEV]![What is this](iconfinder_84_Dev_logo_logos_4394314.png)
+![iconfinder_84_Dev_logo_logos_4394314](https://user-images.githubusercontent.com/51514805/110647982-19555680-8197-11eb-8c90-d8a5c88f0b90.png)
 ### Activity:
 
 [![My top langs :P](https://github-readme-stats.vercel.app/api/top-langs/?username=agamaral&layout=compact&theme=dark)](https://github.com/agamaral/github-readme-stats)
