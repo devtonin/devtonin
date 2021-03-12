@@ -1,6 +1,6 @@
 <h1>Antonio Amaral</h1>
 
-<img align="right" width="50%" src="https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif" alt="code" />
+<img align="right" width="50%" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="code" />
 
 Hello, i'm a *Computer Enginnering Student* and **back-end developer**, looking for a internship!
 Know me better below :)
