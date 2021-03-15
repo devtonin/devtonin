@@ -10,7 +10,8 @@ Know me better below :)
 
 [![DEV Community](https://user-images.githubusercontent.com/51514805/110647982-19555680-8197-11eb-8c90-d8a5c88f0b90.png) DEV Community](https://dev.to/agamaral)
 &nbsp;
-### Activity:
+
+### My top langs:
 
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agamaral&layout=compact&theme=light)](https://github.com/agamaral/github-readme-stats)
 
