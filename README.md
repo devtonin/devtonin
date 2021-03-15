@@ -2,7 +2,7 @@
 
 <img align="right" width="50%" src="https://uploads.spiritfanfiction.com/fanfics/capitulos/201712/mais-um-dia-normal-so-acho-11143617-031220170048.gif" alt="code" />
 
-Hello, i'm a *Computer Enginnering Student* and **back-end developer**, looking for a internship!
+Hello, i'm a *Computer Enginnering Student* and **Back-end Developer**, looking for a internship!
 Know me better below :)
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/agamaral)
