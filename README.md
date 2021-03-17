@@ -12,7 +12,7 @@ Know me better below :)
 
 
 
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agamaral&layout=compact&theme=light)](https://github.com/agamaral/github-readme-stats)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agamaral&layout=default&theme=light)](https://github.com/agamaral/github-readme-stats)
 
 
 ### My Stack:
