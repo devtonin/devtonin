@@ -8,8 +8,6 @@ Know me better below :)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/agamaral)
 &nbsp;
 
-### My top langs:
-
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agamaral&layout=compact&theme=light)](https://github.com/agamaral/github-readme-stats)
 
 ### My Stack:
