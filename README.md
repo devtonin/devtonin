@@ -4,6 +4,7 @@
 
 Hello, i'm a *Computer Enginnering Student* and **Back-end Developer**, looking for a internship!
 <br/>
+<br/>
 Know me better here: [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/agamaral)
 &nbsp;
 
