@@ -1,6 +1,5 @@
 <h1>Antonio Amaral</h1>
 
-<br/>
 <img align="right" width="50%" src="https://uploads.spiritfanfiction.com/fanfics/capitulos/201712/mais-um-dia-normal-so-acho-11143617-031220170048.gif" alt="code" />
 
 Hello, i'm a *Computer Enginnering Student* and **Back-end Developer**, looking for a internship!
