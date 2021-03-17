@@ -5,10 +5,15 @@
 Hello, i'm a *Computer Enginnering Student* and **Back-end Developer**, looking for a internship!
 Know me better below :)
 
+
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/agamaral)
 &nbsp;
 
+
+
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agamaral&layout=compact&theme=light)](https://github.com/agamaral/github-readme-stats)
+
 
 ### My Stack:
 
