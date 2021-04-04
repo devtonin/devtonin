@@ -2,7 +2,7 @@
 
 <img align="right" width="50%" src="http://cdn.lowgif.com/full/0cdbe2e378c7871e-.gif"/>
 
-Sou graduando de *Engenharia de Computação* e **Estagiário de Desenvolvimento FullStack**!
+Sou graduando de *Engenharia de Computação* pelo IFSULDEMINAS e **Estagiário de Desenvolvimento FullStack** na Monitora Soluções Tecnológicas!
 <br/>
 <br/>
 Me conheça melhor aqui [[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)]](https://www.linkedin.com/in/agamaral)
