@@ -1,16 +1,16 @@
-<h1>Hi, I'm Antonio!</h1>
+<h1>Olá, me chamo Antônio!</h1>
 
 <img align="right" width="50%" src="http://cdn.lowgif.com/full/0cdbe2e378c7871e-.gif"/>
 
-Hello, i'm a *Computer Enginnering Student* and **FullStack Development Intern**!
+Sou graduando de *Engenharia de Computação* e **Estagiário de Desenvolvimento FullStack**!
 <br/>
 <br/>
-Know me better here [[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)]](https://www.linkedin.com/in/agamaral)
+Me conheça melhor aqui [[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)]](https://www.linkedin.com/in/agamaral)
 &nbsp;
 
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agamaral&layout=default&theme=light)](https://github.com/agamaral/github-readme-stats)
 
-### My Stack:
+### Stack principal:
 
 <p>
   <img src="https://img.shields.io/badge/-NodeJs-339933?logo=node.js&logoColor=white&style=flat-square"/>
