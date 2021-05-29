@@ -2,7 +2,7 @@
 
 <img align="right" width="50%" src="http://cdn.lowgif.com/full/0cdbe2e378c7871e-.gif"/>
 
-I'm a Computer Engineering student and **Software Development Intern**!
+I'm a Computer Engineering student and **Software Developer Intern**!
 <br/>
 <br/>
 Learn more about me here-> [[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)]](https://www.linkedin.com/in/agamaral)
