@@ -19,7 +19,7 @@ Learn more about me here-> [[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)]](
   <img align="left" alt="React.js" width="30px" src="https://thidu.dev/images/React.svg" />
   <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
   <img align="left" alt="HTML" width="30px" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" />
-   <img align="left" alt="CSS" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" />
+   <img align="left" alt="CSS" width="30px" src="https://mpng.subpng.com/20180420/xwe/kisspng-web-development-cascading-style-sheets-css3-comput-css-5ada20be146fc2.8807141415242446700837.jpg" />
  
   
 </p>
