@@ -1,11 +1,10 @@
-<h1>Hi there, I'm a Computer Engineering student"</h1>
+### Hi, I'm a Computer Engineering student!
 
 <img align="right" width="50%" src="http://cdn.lowgif.com/full/0cdbe2e378c7871e-.gif"/>
-Building amazing stuff with Java, Spring Boot and Kafka at **Monitora Soluções Tecnológicas**!
-<br/>
-<br/>
-Learn more about me here-> [[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)]](https://www.linkedin.com/in/agamaral)
-&nbsp;
+
+<br/>I'm Building amazing stuff with Java, Spring Boot and Kafka at **Monitora Soluções Tecnológicas**! <br/>
+
+## Learn more about me here-> [[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)]](https://www.linkedin.com/in/agamaral)
 
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agamaral&layout=default&theme=light)](https://github.com/agamaral/github-readme-stats)
 
