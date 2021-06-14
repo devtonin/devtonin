@@ -1,11 +1,11 @@
-### Hi, I'm Antonio! 👋
+## Hi, I'm Antonio! 👋
 
 <img align="right" width="50%" src="http://cdn.lowgif.com/full/0cdbe2e378c7871e-.gif"/>
 
 <br/>💼 I'm building things with Java, Spring Boot and Kafka at [@Monitora](https://www.monitoratec.com.br/en) <br/>
 <br/>🚀 Computer Engineering Student at [@IFSULDEMINAS](https://portal.pcs.ifsuldeminas.edu.br/) <br/>
 
-## Learn more about me here-> [[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)]](https://www.linkedin.com/in/agamaral)
+### Learn more about me here-> [[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)]](https://www.linkedin.com/in/agamaral)
 
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agamaral&layout=default&theme=light)](https://github.com/agamaral/github-readme-stats)
 
