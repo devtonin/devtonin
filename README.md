@@ -1,8 +1,8 @@
-### Hi, I'm a Computer Engineering student!
+### Hi, I'm Antonio! 👋
 
 <img align="right" width="50%" src="http://cdn.lowgif.com/full/0cdbe2e378c7871e-.gif"/>
 
-<br/>I'm Building amazing stuff with Java, Spring Boot and Kafka at **Monitora Soluções Tecnológicas**! <br/>
+<br/>I'm building things with Java, Spring Boot and Kafka at [@Monitora](https://www.monitoratec.com.br/en) <br/>
 
 ## Learn more about me here-> [[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)]](https://www.linkedin.com/in/agamaral)
 
