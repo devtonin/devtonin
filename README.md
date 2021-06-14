@@ -18,8 +18,8 @@ Learn more about me here-> [[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)]](
   <img align="left" alt="Oracle Database" width="30px" src="https://images-na.ssl-images-amazon.com/images/I/41QodfboFdL.png" />
   <img align="left" alt="React.js" width="30px" src="https://thidu.dev/images/React.svg" />
   <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img align="left" alt="HTML" width="30px" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" />
-   <img align="left" alt="CSS" width="30px" src="https://mpng.subpng.com/20180420/xwe/kisspng-web-development-cascading-style-sheets-css3-comput-css-5ada20be146fc2.8807141415242446700837.jpg" />
+  <img align="left" alt="HTML" width="30px" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-2.png" />
+   <img align="left" alt="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
  
   
 </p>
