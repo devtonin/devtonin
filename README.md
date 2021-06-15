@@ -12,12 +12,13 @@
 ### My stack:
 
 <p>
-   <img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/32443720/112219266-83441600-8c03-11eb-86db-9a02da9ea3ef.png" />
-  <img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
+   <img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/32443720/112219266-83441600-8c03-11eb-86db-9a02da9ea3ef.png"/>
+  <img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"/>
+   <img align="left" alt="Kafka" width="30px" src="https://pbs.twimg.com/profile_images/781633389577195521/kazUJooF.jpg"/>
    <img align="left"alt="JavaScript"width="30px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
   <img align="left" alt="React.js" width="30px" src="https://thidu.dev/images/React.svg" />
   <img align="left" alt="Oracle SQL Developer" width="30px" src="https://www.thatjeffsmith.com/wp-content/uploads/2014/12/sqldev_log_new.jpg" />
   <img align="left" alt="Mysql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
    <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-  <img align="left" alt="Kafka" width="30px" src="https://pbs.twimg.com/profile_images/781633389577195521/kazUJooF.jpg" />
+  
 </p>
