@@ -6,8 +6,7 @@
 <br/>🚀 Computer Engineering Student at [@IFSULDEMINAS](https://portal.pcs.ifsuldeminas.edu.br/) <br/>
 
 ### Learn more about me here-> [[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)]](https://www.linkedin.com/in/agamaral)
-
-<br/>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agamaral)](https://github.com/agamaral/github-readme-stats)<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agamaral)](https://github.com/agamaral/github-readme-stats)
 
 ### My stack:
 
