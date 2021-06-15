@@ -8,6 +8,8 @@
 ### Learn more about me here-> [[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)]](https://www.linkedin.com/in/agamaral)
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agamaral&layout=default&theme=light)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agamaral)](https://github.com/agamaral/github-readme-stats)
+
 
 ### My stack:
 
