@@ -7,6 +7,8 @@
 
 ### Learn more about me here-> [[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)]](https://www.linkedin.com/in/agamaral)
 
+<br/>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agamaral)](https://github.com/agamaral/github-readme-stats)<br/>
+
 ### My stack:
 
 <p>
@@ -19,5 +21,3 @@
   <img align="left" alt="Mysql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
    <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 </p>
-
-<br/>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agamaral)](https://github.com/agamaral/github-readme-stats)<br/>
