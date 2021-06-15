@@ -8,7 +8,7 @@
 ### Learn more about me here-> [[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)]](https://www.linkedin.com/in/agamaral)
 
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agamaral&layout=default&theme=light)](https://github.com/agamaral/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agamaral)](https://github.com/agamaral/github-readme-stats)
+
 ### My stack:
 
 <p>
@@ -22,3 +22,5 @@
    <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
   
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agamaral)](https://github.com/agamaral/github-readme-stats)
