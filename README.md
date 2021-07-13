@@ -5,7 +5,7 @@
 <br/>💼 Building things with Java and Spring Boot at [@Monitora](https://www.monitoratec.com.br/en) <br/>
 <br/>🚀 Computer Engineering Student at [@IFSULDEMINAS](https://portal.pcs.ifsuldeminas.edu.br/) <br/>
 
-### Learn more about me here-> [[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)]](https://www.linkedin.com/in/agamaral)
+### Learn more about me here -> [[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)]](https://www.linkedin.com/in/agamaral)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agamaral&layout=compact)](https://github.com/agamaral/github-readme-stats)
 
