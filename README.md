@@ -13,6 +13,7 @@
 
 <p>
    <img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/32443720/112219266-83441600-8c03-11eb-86db-9a02da9ea3ef.png"/>
+   <img align="left" alt="Javascript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png"/>
    <img align="left" alt="React.js" width="30px" src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" />
     <img align="left" alt="Spring Cloud" width="30px" src="https://i2.wp.com/e4developer.com/wp-content/uploads/2018/01/spring-cloud-logo.png?resize=800%2C753&ssl=1"/>
     <img align="left" alt="Spring Boot" width="30px" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png"/>
