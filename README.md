@@ -7,7 +7,7 @@
 
 ### Learn more about me here -> [[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)]](https://www.linkedin.com/in/ammmaral)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammmaral)](https://github.com/ammmaral/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaralsprtn)](https://github.com/amaralsprtn/github-readme-stats)
 
 ### Main stack:
 
