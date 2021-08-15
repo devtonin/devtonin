@@ -7,7 +7,8 @@
 
 ### Learn more about me here -> [[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)]](https://www.linkedin.com/in/amaralsprtn)
 
-<img  src="https://github-readme-stats.vercel.app/api?username=amaralsprtn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaralsprtn)](https://github.com/amaralsprtn/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amaralsprtn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 ### Main stack:
 
