@@ -20,5 +20,6 @@
    <img align="left" alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png"/>
    <img align="left" alt="TypeScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/>
   <img align="left" alt="Oracle Database" width="30px" src="https://www.thatjeffsmith.com/wp-content/uploads/2014/12/sqldev_log_new.jpg" />
+   <img align="left" alt="PostgresSQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
    <img align="left" alt="Apache Kafka" width="30px" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/apache_kafka_icon_138937.png" />
 </p>
