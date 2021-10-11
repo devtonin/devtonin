@@ -5,8 +5,6 @@
 <br/>💼 Building solutions with Java and Spring at [@Monitora](https://www.monitoratec.com.br/en) <br/>
 <br/>🚀 Computer Engineering Student at [@IFSULDEMINAS](https://portal.pcs.ifsuldeminas.edu.br/cursos-superiores/bacharelado/engenharia-da-computacao) <br/>
 
-### Learn more about me here -> [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/ammmaral)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammmaral)](https://github.com/ammmaral/github-readme-stats)
 
 ### My stack:
