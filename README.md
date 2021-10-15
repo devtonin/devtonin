@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oamaraldev)](https://github.com/oamaraldev/github-readme-stats)
 
-### My stack:
+### Main stack:
 
 <p>
    <img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/32443720/112219266-83441600-8c03-11eb-86db-9a02da9ea3ef.png"/>
