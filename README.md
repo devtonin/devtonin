@@ -1,4 +1,4 @@
-## Hello, Stranger! 🐱‍👤
+## Hello, stranger! 🐱‍👤
 
 <img align="right" width="50%" src="http://cdn.lowgif.com/full/0cdbe2e378c7871e-.gif"/>
 
