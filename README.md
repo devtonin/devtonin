@@ -2,8 +2,8 @@
 
 <img align="right" width="50%" src="http://cdn.lowgif.com/full/0cdbe2e378c7871e-.gif"/>
 
-<br/>💼 Building solutions with Java and Spring <br/>
-<br/>🚀 Computer Engineering Student <br/>
+<br/>💼 Building solutions with Java, Spring and Kafka at [@Monitora](https://www.monitoratec.com.br/en) <br/>
+<br/>🚀 Computer Engineer by [@IFSULDEMINAS](https://portal.pcs.ifsuldeminas.edu.br/cursos-superiores/bacharelado/engenharia-da-computacao) <br/>
 
 ### My top langs:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oamaraldev&layout=compact&langs_count=7"/>
