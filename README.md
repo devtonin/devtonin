@@ -5,7 +5,6 @@
 <br/>💼 Building solutions with Java and Spring at [@Monitora](https://www.monitoratec.com.br/en) <br/>
 <br/>🚀 Computer Engineer by [@IFSULDEMINAS](https://portal.pcs.ifsuldeminas.edu.br/cursos-superiores/bacharelado/engenharia-da-computacao) <br/>
 
-### Top langs:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oamaraldev&layout=compact&langs_count=7"/>
 
 ### Main stack:
