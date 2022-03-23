@@ -1,6 +1,6 @@
 ## Hello, stranger!
 
-<img align="right" width="50%" src="http://cdn.lowgif.com/full/0cdbe2e378c7871e-.gif"/>
+<img align="right" width="50%" src="../687474703a2f2f63646e2e6c6f776769662e636f6d2f66756c6c2f306364626532653337386337383731652d2e676966.gif"/>
 
 <br/>💼 Building solutions with Java and Spring at [@Monitora](https://www.monitoratec.com.br/en) <br/>
 <br/>🚀 Computer Engineer by [@IFSULDEMINAS](https://portal.pcs.ifsuldeminas.edu.br/cursos-superiores/bacharelado/engenharia-da-computacao) <br/>
