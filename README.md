@@ -17,6 +17,6 @@
    <img align="left" alt="Micronaut" width="25px" src="https://www.opencodez.com/wp-content/uploads/2019/08/Micronaut.png"/>
    <img align="left" alt="Quarkus" width="25px" src="https://miro.medium.com/max/512/1*CTuO-w7wiq_yhLh9plnkCw.png"/>
    <img align="left" alt="Kafka" width="25px" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/apache_kafka_icon_138937.png" />
-   <img align="left" alt="ReactJS" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
+   <img align="left" alt="AWS" width="25px" src="https://cdn2.downdetector.com/static/uploads/logo/aws-logo-icon-PNG-Transparent-Background_3.png" />
    <img align="left" alt="PostgreSQL" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 </p>
