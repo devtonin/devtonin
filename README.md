@@ -3,7 +3,7 @@
 <img align="right" width="50%" src=687474703a2f2f63646e2e6c6f776769662e636f6d2f66756c6c2f306364626532653337386337383731652d2e676966.gif/>
 
 <br/>💼 Building solutions with Java and Spring at [@Sensedia](https://br.sensedia.com/) <br/>
-<br/>🚀 Computer Engineer [@IFSULDEMINAS](https://portal.pcs.ifsuldeminas.edu.br/cursos-superiores/bacharelado/engenharia-da-computacao) <br/>
+<br/>🚀 Computer Engineer by [@IFSULDEMINAS](https://portal.pcs.ifsuldeminas.edu.br/cursos-superiores/bacharelado/engenharia-da-computacao) <br/>
 
 ### Top langs:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oamaraldev&layout=compact&langs_count=7"/>
