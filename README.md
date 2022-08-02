@@ -18,5 +18,5 @@
    <img align="left" alt="AWS" width="25px" src="https://cdn2.downdetector.com/static/uploads/logo/aws-logo-icon-PNG-Transparent-Background_3.png" />
    <img align="left" alt="MongoDB" width="25px" src="https://user-images.githubusercontent.com/12401985/69677784-80bec400-1082-11ea-89b2-b2120eb84676.png" />
    <img align="left" alt="K8S" width="25px" src="https://user-images.githubusercontent.com/19824574/41482054-47a3a702-70a2-11e8-9561-de51c5f71220.png" />
-   <img align="left" alt="Docker" width="25px" src="https://www.ufrgs.br/gasp/wp-content/uploads/2021/04/docker-logo-7bcbbab5e4c7c9a94f7a32016ae8f827.png" />
+   <img align="left" alt="Docker" width="25px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
 </p>
