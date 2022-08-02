@@ -17,4 +17,6 @@
    <img align="left" alt="Kafka" width="25px" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/apache_kafka_icon_138937.png" />
    <img align="left" alt="AWS" width="25px" src="https://cdn2.downdetector.com/static/uploads/logo/aws-logo-icon-PNG-Transparent-Background_3.png" />
    <img align="left" alt="MongoDB" width="25px" src="https://user-images.githubusercontent.com/12401985/69677784-80bec400-1082-11ea-89b2-b2120eb84676.png" />
+   <img align="left" alt="K8S" width="25px" src="https://user-images.githubusercontent.com/19824574/41482054-47a3a702-70a2-11e8-9561-de51c5f71220.png" />
+   <img align="left" alt="Docker" width="25px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />
 </p>
