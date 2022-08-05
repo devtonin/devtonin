@@ -1,6 +1,6 @@
 ## Hello there =)
 
-<img align= "right" width="50%" src=spidey_venom.gif/>
+<img align= "right" width="50%" src=coffee_mug.gif/>
 
 <br/>💼 Building a more open world at [@Sensedia](https://br.sensedia.com/) <br/>
 <br/>🚀 Computer Engineer by [@IFSULDEMINAS](https://portal.pcs.ifsuldeminas.edu.br/cursos-superiores/bacharelado/engenharia-da-computacao) <br/>
