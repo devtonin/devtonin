@@ -20,4 +20,4 @@
    <img align="left" alt="MongoDB" width="25px" src="https://user-images.githubusercontent.com/12401985/69677784-80bec400-1082-11ea-89b2-b2120eb84676.png"/>
    <img align="left" alt="Kubernetes" width="25px" src="https://user-images.githubusercontent.com/19824574/41482054-47a3a702-70a2-11e8-9561-de51c5f71220.png"/>
 </p>
-<img align= "right" width="10%" src=f3db6f74a9adbd101f2304b7654f16c9.gif/>
+<img align= "left" width="10%" src=f3db6f74a9adbd101f2304b7654f16c9.gif/>
