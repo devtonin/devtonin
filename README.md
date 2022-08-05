@@ -1,10 +1,11 @@
 ## Hello there =)
 
-<img align="right" width="50%" src=687474703a2f2f63646e2e6c6f776769662e636f6d2f66756c6c2f306364626532653337386337383731652d2e676966.gif/>
+<img align="right" width="25%" src=687474703a2f2f63646e2e6c6f776769662e636f6d2f66756c6c2f306364626532653337386337383731652d2e676966.gif/>
+<img align= "top right" width="20%" src=f3db6f74a9adbd101f2304b7654f16c9.gif/>
 
 <br/>💼 Building a more open world at [@Sensedia](https://br.sensedia.com/) <br/>
 <br/>🚀 Computer Engineer by [@IFSULDEMINAS](https://portal.pcs.ifsuldeminas.edu.br/cursos-superiores/bacharelado/engenharia-da-computacao) <br/>
-<img align= "left" width="10%" src=f3db6f74a9adbd101f2304b7654f16c9.gif/>
+
 
 
 ### Top langs:
