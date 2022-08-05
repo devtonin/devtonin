@@ -7,6 +7,8 @@
 <br/>💼 Building a more open world at [@Sensedia](https://br.sensedia.com/) <br/>
 <br/>🚀 Computer Engineer by [@IFSULDEMINAS](https://portal.pcs.ifsuldeminas.edu.br/cursos-superiores/bacharelado/engenharia-da-computacao) <br/>
 
+<img align= "right" width="10%" src=f3db6f74a9adbd101f2304b7654f16c9.gif/>
+
 ### Top langs:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oamaraldev&layout=compact&langs_count=7"/>
 
