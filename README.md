@@ -2,7 +2,7 @@
 
 <img align= "right" width="50%" src=coffee_mug.gif/>
 
-<br/>💼 Helping to build an open world at [@Sensedia](https://br.sensedia.com/) <br/>
+<br/>💼 Connecting the world at [@Sensedia](https://br.sensedia.com/) <br/>
 <br/>🚀 Computer Engineer by [@IFSULDEMINAS](https://portal.pcs.ifsuldeminas.edu.br/cursos-superiores/bacharelado/engenharia-da-computacao) <br/>
 
 ### Top langs:
