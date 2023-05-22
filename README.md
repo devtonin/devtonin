@@ -6,7 +6,7 @@
 <br/>🚀 Computer Engineer by [@IFSULDEMINAS](https://portal.pcs.ifsuldeminas.edu.br/cursos-superiores/bacharelado/engenharia-da-computacao) <br/>
 
 ### Top langs:
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oamaraldev&layout=compact&langs_count=7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamaidev&layout=compact&langs_count=7"/>
 
 ### Current stack:
 
