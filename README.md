@@ -12,7 +12,7 @@
 
 <p>
    <img align="left" alt="Java" width="25px" src="https://user-images.githubusercontent.com/32443720/112219266-83441600-8c03-11eb-86db-9a02da9ea3ef.png"/>
-   <img align="left" alt="Kotlin" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1024px-Kotlin_Icon.png"/>
+   <img align="left" alt="Kotlin" width="25px" src="https://www.svgrepo.com/show/373728/kotlin.svg"/>
    <img align="left" alt="Spring Boot" width="25px" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png"/>
    <img align="left" alt="Spring Framework" width="25px" src="https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png"/>
    <img align="left" alt="Kafka" width="25px" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/apache_kafka_icon_138937.png" />
