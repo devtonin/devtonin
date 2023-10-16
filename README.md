@@ -1,4 +1,4 @@
-![image](https://github.com/devtonin/devtonin/assets/51514805/0408898b-7462-4431-846d-0750d3873388)## Hello, visitor ≧◠‿●‿◠≦
+## Hello, visitor ≧◠‿●‿◠≦
 
 <img align= "right" width="50%" src=coffee_mug.gif/>
 
