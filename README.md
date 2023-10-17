@@ -1,4 +1,4 @@
-## Hello, visitor ≧◠‿●‿◠≦
+## Hello, visitor! ≧◠‿●‿◠≦
 
 <img align= "right" width="50%" src=coffee_mug.gif/>
 
