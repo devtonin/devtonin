@@ -1,4 +1,4 @@
-## Hello, visitor! ≧◠‿●‿◠≦
+## Hello, visitor!
 
 <img align= "right" width="50%" src=coffee_mug.gif/>
 
@@ -8,7 +8,8 @@
 ### Top langs:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtonin&layout=compact&langs_count=7"/>
 
-### Current stack:
+###
+ Current stack:
 
 <p>
    <img align="left" alt="Java" width="25px" src="https://user-images.githubusercontent.com/32443720/112219266-83441600-8c03-11eb-86db-9a02da9ea3ef.png"/>
