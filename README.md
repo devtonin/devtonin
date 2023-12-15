@@ -1,4 +1,4 @@
-## Hello, visitor!
+## some interesting repositories
 
 <img align= "right" width="50%" src=coffee_mug.gif/>
 
