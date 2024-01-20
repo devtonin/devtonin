@@ -1,9 +1,9 @@
-## My side projects
+## Some of my side projects
 
 <img align= "right" width="50%" src=coffee_mug.gif/>
 
-<br/>💼 Connecting the world at [@Sensedia](https://www.sensedia.com.br/produtos/open-insurance) <br/>
-<br/>🚀 Computer Engineer by [@IFSULDEMINAS](https://portal.pcs.ifsuldeminas.edu.br/cursos-superiores/bacharelado/engenharia-da-computacao) <br/>
+<br/>💼 Building open solutions at [@Sensedia](https://www.sensedia.com.br/produtos/open-insurance) <br/>
+<br/>🚀 Computer Engineer degreed by [@IFSULDEMINAS](https://portal.pcs.ifsuldeminas.edu.br/cursos-superiores/bacharelado/engenharia-da-computacao) <br/>
 
 ### Top langs:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtonin&layout=compact&langs_count=7"/>
