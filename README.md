@@ -1,4 +1,4 @@
-## some interesting repositories
+## My side projects
 
 <img align= "right" width="50%" src=coffee_mug.gif/>
 
