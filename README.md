@@ -2,7 +2,7 @@
 
 <img align= "right" width="50%" src=coffee_mug.gif/>
 
-<br/>🍢 kebab-case-defender 🍢<br/>
+<br/>🍢 kebab-case-defender<br/>
 <br/>💼 Building open solutions at [@Sensedia](https://www.sensedia.com.br/produtos/open-insurance) <br/>
 <br/>🚀 Computer Engineer degreed by [@IFSULDEMINAS](https://portal.pcs.ifsuldeminas.edu.br/cursos-superiores/bacharelado/engenharia-da-computacao) <br/>
 
@@ -10,7 +10,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtonin&layout=compact&langs_count=7"/>
 
 ###
- Current stack:
+<br/>🥞 Current stack:<br/>
 
 <p>
    <img align="left" alt="Java" width="25px" src="https://user-images.githubusercontent.com/32443720/112219266-83441600-8c03-11eb-86db-9a02da9ea3ef.png"/>
