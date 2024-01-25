@@ -9,9 +9,8 @@
 ### Top langs:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtonin&layout=compact&langs_count=7"/>
 
-###
 <br/>🥞 Current stack:<br/>
-
+<br/>
 <p>
    <img align="left" alt="Java" width="25px" src="https://user-images.githubusercontent.com/32443720/112219266-83441600-8c03-11eb-86db-9a02da9ea3ef.png"/>
    <img align="left" alt="Spring Boot" width="25px" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png"/>
