@@ -16,7 +16,6 @@
    <img align="left" alt="JUnit5" width="25px" src="https://junit.org/junit5/assets/img/junit5-logo.png"/>
    <img align="left" alt="Kotlin" width="25px" src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg"/>
    <img align="left" alt="Python" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/>
-   <img align="left" alt="JS" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png"/>
    <img align="left" alt="MongoDB" width="25px" src="https://user-images.githubusercontent.com/12401985/69677784-80bec400-1082-11ea-89b2-b2120eb84676.png"/>
    <img align="left" alt="AWS" width="25px" src="https://cdn2.downdetector.com/static/uploads/logo/aws-logo-icon-PNG-Transparent-Background_3.png" />
    <img align="left" alt="Kubernetes" width="25px" src="https://user-images.githubusercontent.com/19824574/41482054-47a3a702-70a2-11e8-9561-de51c5f71220.png"/>
