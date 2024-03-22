@@ -1,4 +1,4 @@
-## ⚡ Some of my side projects and pocs
+## ⚡ My personal projects and pocs
 
 <img align= "right" width="50%" src=coffee_mug.gif/>
 
