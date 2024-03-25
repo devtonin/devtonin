@@ -1,4 +1,4 @@
-## ⛩ Some side projects and PoCs
+## ⛩ Some of my side projects and PoCs
 
 <img align= "right" width="50%" src=coffee_mug.gif/>
 
@@ -6,7 +6,7 @@
 <br/>💼 Building solutions at [@Sensedia](https://www.sensedia.com.br/produtos/open-insurance) <br/>
 <br/>🚀 Computer Engineer degreed by [@IFSULDEMINAS](https://portal.pcs.ifsuldeminas.edu.br/cursos-superiores/bacharelado/engenharia-da-computacao) <br/>
 
-## 🏹 Technologies
+## 🀦 Technologies
 
 🥞 My current tools pool:
 
