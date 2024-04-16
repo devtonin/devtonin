@@ -2,7 +2,7 @@
 
 <img align= "right" width="50%" src=coffee_mug.gif/>
 
-🍢 Defending the [kebab-case](https://www.theserverside.com/definition/Kebab-case) style<br/>
+🍢 Defending the [kebab-case-style](https://www.theserverside.com/definition/Kebab-case)<br/>
 <br/>🤺 Building solutions at [@Sensedia](https://www.sensedia.com.br/produtos/open-insurance) <br/>
 <br/>💠 Computer Engineer degreed by [@IFSULDEMINAS](https://portal.pcs.ifsuldeminas.edu.br/cursos-superiores/bacharelado/engenharia-da-computacao) <br/>
 
