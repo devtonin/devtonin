@@ -3,7 +3,7 @@
 <img align= "right" width="50%" src=coffee_mug.gif/>
 
 🍢 Defending the [kebab-case-style](https://www.theserverside.com/definition/Kebab-case)<br/>
-<br/>🤺 Building solutions and a few bugs at [@GFT](https://www.gft.com/br/pt)<br/>
+<br/>🤺 Building solutions at [@GFT](https://www.gft.com/br/pt)<br/>
 <br/>💠 Computer Engineer degreed by [@Instituto Federal](https://portal.ifsuldeminas.edu.br/index.php) <br/>
 
 ## 🥞 Tech stack
