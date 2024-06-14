@@ -1,4 +1,4 @@
-## ⛩ Some of my side projects and PoCs
+## ⛩ Some of my side projects and PoCs ⛩
 
 <img align= "right" width="50%" src=coffee_mug.gif/>
 
