@@ -4,7 +4,7 @@
 
 <br/>🍢 Defending the [kebab-case-style](https://www.theserverside.com/definition/Kebab-case)<br/>
 <br/>🤺 Building solutions at [@GFT](https://www.gft.com/br/pt)<br/>
-<br/>💠 Computer Engineer degreed [@IFSULDEMINAS](https://portal.ifsuldeminas.edu.br/index.php) <br/>
+<br/>💠 Computer Engineer degreed by [@IFSULDEMINAS](https://portal.pcs.ifsuldeminas.edu.br/cursos-superiores/bacharelado/engenharia-da-computacao) <br/>
 
 ## 🥞 Tech stack
 
