@@ -3,10 +3,10 @@
 <img align= "right" width="50%" src=coffee_mug.gif/>
 
 <br/>🍢 Defending the [kebab-case-style](https://www.theserverside.com/definition/Kebab-case)<br/>
-<br/>🤺 Building solutions at [@GFT](https://www.gft.com/br/pt)<br/>
-<br/>💠 Computer Engineer degreed by [@IFSULDEMINAS](https://portal.pcs.ifsuldeminas.edu.br/cursos-superiores/bacharelado/engenharia-da-computacao) <br/>
+<br/>🥷🏻 Building solutions at [@GFT](https://www.gft.com/br/pt)<br/>
+<br/>🎎 Computer Engineer degreed by [@IFSULDEMINAS](https://portal.pcs.ifsuldeminas.edu.br/cursos-superiores/bacharelado/engenharia-da-computacao) <br/>
 
-## 🥞 Tech stack
+## 🥞 My stack
 
 </br>
 
