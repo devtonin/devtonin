@@ -1,4 +1,4 @@
-## 🥋 Some of my side projects
+## 🥋 About me
 
 <img align= "right" width="50%" src=coffee_mug.gif/>
 
