@@ -6,7 +6,7 @@
 <br/>🥷🏻 Building solutions at [@GFT](https://www.gft.com/br/pt)<br/>
 <br/>⛩️ Computer Engineer degreed at [@IFSULDEMINAS](https://portal.ifsuldeminas.edu.br/index.php) <br/>
 
-## 🥞 Fav tools
+## 🥞 Fav stack
 
 </br>
 
