@@ -6,7 +6,7 @@
 <br/>🥷🏻 Building solutions at [@Itaú](https://carreiras.itau.com.br/)<br/>
 <br/>⛩️ Computer Engineer degreed at [@IFSULDEMINAS](https://portal.ifsuldeminas.edu.br/index.php) <br/>
 
-## 🥞 Fav tools
+## 💠 Fav tech
 
 </br>
 
