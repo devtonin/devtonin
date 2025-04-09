@@ -3,8 +3,8 @@
 <img align= "right" width="50%" src=coffee_mug.gif/>
 
 <br/>🍢 Defending the [kebab-case-style](https://www.theserverside.com/definition/Kebab-case)<br/>
-<br/>🥷🏻 Building solutions at [@Itaú](https://carreiras.itau.com.br/)<br/>
-<br/>⛩️ Computer Engineer degreed at [@IFSULDEMINAS](https://portal.ifsuldeminas.edu.br/index.php) <br/>
+<br/>🥷🏻 Building solutions at [@GFT](https://www.gft.com/us/en)<br/>
+<br/>⛩️ Computer Engineer degreed<br/>
 
 ## 💠 Fav tech
 
