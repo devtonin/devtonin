@@ -4,7 +4,7 @@
 
 <br/>🍢 Defending the [kebab-case-style](https://www.theserverside.com/definition/Kebab-case)<br/>
 <br/>🥷🏻 Building solutions at [@GFT](https://www.gft.com/us/en)<br/>
-<br/>⛩️ Computer Engineer degreed<br/>
+<br/>⛩️ Degreed computer engineer<br/>
 
 ## 💠 Fav tech
 
